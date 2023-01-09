@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x962fa18B27F2B47884c181C0EF5fb81F3af0Ef73",
+  "SCAN_LINK": "https://etherscan.io/address/0x962fa18B27F2B47884c181C0EF5fb81F3af0Ef73",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Tallu X Gargi",
+  "SYMBOL": "TALLU",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.025000000,
+  "GAS_LIMIT": 160000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tallu-x-gargi",
+  "SHOW_BACKGROUND": true
+}
