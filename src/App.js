@@ -367,7 +367,7 @@ function App() {
 
 
             <s.TextTitle>
-              MINT OPEN
+              MINT SOLDOUT, BUY ON OPENSEA
             </s.TextTitle>
 
 
