@@ -360,7 +360,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              MINT OPEN
+              SOLDOUT
             </s.TextDescription>
 
 
